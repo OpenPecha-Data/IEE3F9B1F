@@ -1,0 +1,9 @@
+id: 5856e3debcbe444f8cc601177fc5a111
+annotation_type: index
+revision: '00001'
+annotations:
+  42691e5ce611417a86281b350c4d7132:
+    base: fE330.txt
+    span:
+      start: 0
+      end: 151
